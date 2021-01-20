@@ -3,7 +3,10 @@
 Gas Turbine CO and NOx Emission Data Set Data Set
 
 Source:
-Heysem Kaya, Department of Information and Computing Sciences, Utrecht University, 3584 CC, Utrecht, The NetherlandsPınar Tüfekçi, Çorlu Faculty of Engineering, Namık Kemal University, TR-59860 Çorlu, Tekirdağ, Turkey
+
+Heysem Kaya, Department of Information and Computing Sciences, Utrecht University, 3584 CC, Utrecht, The Netherlands
+
+Pınar Tüfekçi, Çorlu Faculty of Engineering, Namık Kemal University, TR-59860 Çorlu, Tekirdağ, Turkey
 
 
 HTRU2 Data Set
